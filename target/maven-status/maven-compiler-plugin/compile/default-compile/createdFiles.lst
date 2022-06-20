@@ -1,0 +1,11 @@
+com\example\examspring2022\ExamSpring2022Application.class
+com\example\examspring2022\api\RiderController.class
+com\example\examspring2022\dto\riderDTO\RiderRequest.class
+com\example\examspring2022\config\TestData.class
+com\example\examspring2022\repositories\RiderRepository.class
+com\example\examspring2022\repositories\TeamRepository.class
+com\example\examspring2022\entities\Rider.class
+com\example\examspring2022\entities\Team.class
+com\example\examspring2022\services\RiderService.class
+com\example\examspring2022\services\TeamService.class
+com\example\examspring2022\dto\riderDTO\RiderResponse.class
